@@ -9,7 +9,7 @@ jobs:
 update-and-sync:
 runs-on: ubuntu-latest
 
-```
+
 steps:
   - name: Checkout code
     uses: actions/checkout@v4
@@ -64,4 +64,4 @@ steps:
   - name: Force Push to GitLab
     run: |
       git push --force https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/jdnei/${{ github.event.repository.name }}.git HEAD:${GITHUB_REF_NAME}
-```
+
