@@ -8,6 +8,7 @@ on:
 jobs:
   update-and-sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -26,22 +27,46 @@ jobs:
           D=$(TZ='Asia/Shanghai' date +'%-d')
           CURRENT_DATE="${Y}${YEAR_CHAR}${M}${MONTH_CHAR}${D}${DAY_CHAR}"
 
-          sed -i "s/([0-9]\{4\}${YEAR_CHAR}[0-9]\{1,2\}${MONTH_CHAR}[0-9]\{1,2\}${DAY_CHAR}${UPDATE_TEXT})/(${CURRENT_DATE}${UPDATE_TEXT})/g" README.md
+          FILES=("README.md" "README_EN.md" "README_RU.md" "README_FA.md")
 
-          sed -i 's/\(\.png\|\.jpg\|\.jpeg\|\.gif\))/\1?raw=true)/g' README.md
-          sed -i 's/?raw=true?raw=true/?raw=true/g' README.md
+          for file in "${FILES[@]}"; do
+            if [ -f "$file" ]; then
+              echo "Updating $file"
+
+              sed -i 
+"s/([0-9]\{4\}${YEAR_CHAR}[0-9]\{1,2\}${MONTH_CHAR}[0-9]\{1,2\}${DAY_CHAR}${UPDATE_TEXT})/(${CURRENT_DATE}${UPDATE_TEXT})/g" 
+"$file"
+
+              sed -i 's/\(\.png\|\.jpg\|\.jpeg\|\.gif\))/\1?raw=true)/g' 
+"$file"
+              sed -i 's/?raw=true?raw=true/?raw=true/g' "$file"
+            else
+              echo "$file not found, skip."
+            fi
+          done
 
       - name: Commit and Push to GitHub
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email 
+"github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update date" && git push)
+
+          git add README.md README_EN.md README_RU.md README_FA.md || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: Update date"
+            git push
+          fi
 
       - name: Force Push to Gitee
         run: |
-          git push --force https://jdnei:${{ secrets.GITEE_TOKEN }}@gitee.com/${{ github.repository }}.git HEAD:${GITHUB_REF_NAME}
+          git push --force https://jdnei:${{ secrets.GITEE_TOKEN 
+}}@gitee.com/${{ github.repository }}.git HEAD:${GITHUB_REF_NAME}
 
       - name: Force Push to GitLab
         run: |
-          git push --force https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/jdnei/${{ github.event.repository.name }}.git HEAD:${GITHUB_REF_NAME}
+          git push --force https://oauth2:${{ secrets.GITLAB_TOKEN 
+}}@gitlab.com/jdnei/${{ github.event.repository.name }}.git 
+HEAD:${GITHUB_REF_NAME}
