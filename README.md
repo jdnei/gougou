@@ -1,3 +1,6 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 ### 狗狗加速.com GouGouCloud 狗狗加速机场官方地址(2026年6月23日更新)
 官方最新地址： [狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh)  
 ### 简介
