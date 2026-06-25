@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-## آدرس رسمی GouGouCloud 狗狗加速.com (به‌روزرسانی 25 ژوئن 2026)
+## آدرس رسمی GouGouCloud 狗狗加速.com (به‌روزرسانی 26 ژوئن 2026)
 
 آخرین آدرس رسمی: [狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh)
 
