@@ -14,7 +14,7 @@ h8qqU0Dh
 
 ---
 
-![image.png](https://github.com/jdnei/gougou/blob/main/gougou/20260720-150125.jpgg?raw=ture)   
+![image.png](https://github.com/jdnei/gougou/blob/main/gougou/20260720-150125.jpg?raw=ture)   
 
 ---
 
