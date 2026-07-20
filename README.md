@@ -14,7 +14,7 @@ h8qqU0Dh
 
 ---
 
-![image.png](https://pic.us.kg/file/1778567859915_image.png?raw=ture)   
+![image.png](https://github.com/jdnei/gougou/blob/main/gougou/20260720-150125.jpgg?raw=ture)   
 
 ---
 
@@ -61,5 +61,12 @@ h8qqU0Dh
 | 🇰🇷 韩国 | 春川 | 1 | 11 | 直连 |
 | 🇰🇷 韩国 | 首尔 | 1 | 3 | 直连 |
 
+## 📊 性能实测与分析  
+#### 1.晚高峰测速表现  
+![image](https://github.com/jdnei/gougou/blob/main/gougou/99328472902038.jpg?raw=ture)  
+#### 2.流媒体解锁报告  
+![image](https://github.com/jdnei/gougou/blob/main/gougou/99328472902038.jpg?raw=ture)    
+#### 3.落地入口分析  
+![image](https://github.com/jdnei/gougou/blob/main/gougou/68ab0671b992e.jpg?raw=ture)
 
 
