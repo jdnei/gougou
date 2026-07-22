@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-## GouGouCloud 狗狗加速.com Official Address (Updated July 22, 2026)
+## GouGouCloud 狗狗加速.com Official Address (Updated July 23, 2026)
 
 Official Latest Address: [狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh)
 
