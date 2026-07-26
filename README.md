@@ -3,7 +3,13 @@
 
 ## 狗狗加速.com GouGouCloud 狗狗加速机场官方地址(2026年7月26日更新)
 狗狗加速.com GouGouCloud狗狗加速机场官网地址</br>
-官方最新地址： [狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh)  
+官方最新地址： [狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh)</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 简介
 狗狗加速.com 狗狗加速机场是一家主打**性价比**与**极简体验**的翻墙线路提供商。它在圈内以“低调、稳健”著称，特别适合追求快速上手、不希望在复杂配置上浪费时间的用户。
 ## 邀请码
