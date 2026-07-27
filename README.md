@@ -3,7 +3,7 @@
 
 ## 狗狗加速.com GouGouCloud 狗狗加速机场官方地址(2026年7月27日更新)
 狗狗加速.com GouGouCloud狗狗加速机场官网地址</br>
-官方最新地址： [狗狗加速.com](https://inv.dginv.click/#/register?code=h8qqU0Dh)</br>
+官方最新地址： [狗狗加速.com](https://to.iix.im/gg01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
