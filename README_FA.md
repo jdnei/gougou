@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی 狗狗加速.com GouGouCloud VPN (به‌روزرسانی 13 اوت 2026)
+# آدرس رسمی 狗狗加速.com GouGouCloud VPN (به‌روزرسانی 14 اوت 2026)
 
 آدرس وب‌سایت رسمی 狗狗加速.com GouGouCloud VPN</br>
 جدیدترین آدرس رسمی: [狗狗加速.com](https://to.iix.im/gg01)</br>
