@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# 狗狗加速.com GouGouCloud 狗狗加速机场官方地址(2026年8月23日更新)
+# 狗狗加速.com GouGouCloud 狗狗加速机场官方地址(2026年8月24日更新)
 狗狗加速.com GouGouCloud狗狗加速机场官网地址</br>
 官方最新地址： [狗狗加速.com](https://to.iix.im/gg01)</br>
 
